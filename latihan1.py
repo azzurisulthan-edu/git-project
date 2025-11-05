@@ -1,3 +1,4 @@
+# Ini adalah latihan 1
 import numpy as np
 
 celcius = np.array([30,36,34,32,33,37,38,31,40,29])
